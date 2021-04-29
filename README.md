@@ -1,6 +1,6 @@
 # Demo
 
-## See it live <a href="https://tparks18.github.io/Chat_Application/">Here</a>!
+## See it live <a href="https://tparks18.github.io/Chat_Application/">here</a>!
 
 ### For logging in:
 
