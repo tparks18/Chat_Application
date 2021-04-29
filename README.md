@@ -9,3 +9,6 @@ username: testaccount
 password: 12345
 
 ![](chatappgif.gif)
+
+##### Project adapted from JavascriptMastery
+
